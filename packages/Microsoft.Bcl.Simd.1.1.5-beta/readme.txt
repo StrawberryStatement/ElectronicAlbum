@@ -1,0 +1,1 @@
+This package has been renamed to System.Numerics.Vectors. Please reference the System.Numerics.Vectors NuGet package from your projects instead of this package.

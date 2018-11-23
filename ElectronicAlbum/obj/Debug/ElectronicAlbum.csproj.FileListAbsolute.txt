@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\bin\Debug\ElectronicAlbum.exe.config
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\bin\Debug\ElectronicAlbum.exe
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\bin\Debug\ElectronicAlbum.pdb
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\obj\Debug\ElectronicAlbum.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\obj\Debug\ElectronicAlbum.Form1.resources
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\obj\Debug\ElectronicAlbum.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\obj\Debug\ElectronicAlbum.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\obj\Debug\ElectronicAlbum.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\obj\Debug\ElectronicAlbum.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\obj\Debug\ElectronicAlbum.exe
+C:\Users\Administrator\source\repos\ElectronicAlbum\ElectronicAlbum\obj\Debug\ElectronicAlbum.pdb
